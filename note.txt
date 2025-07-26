@@ -1,0 +1,30 @@
+What we'll Learn
+
+1. JavaScript Basics
+2. Numbers and Math
+3. Strings
+4. Variables
+5. Booleans, If-Statements
+6. Functions
+7. Objects and DOM
+8. Arrays and Loops
+9. HTML, CSS, JS Together
+
+Advanced Features
+
+1. Modules
+2. Testing
+3. Object-Oriented Programming (OOP)
+4. Backend
+5. Callbacks
+6. Promises
+7. Async Await
+
+
+Order of Operations (Operator Precedence)
+* / are done first
++ - are done after
+(left to right) ->
+We can use (..) to control which part gets done first.
+
+
