@@ -20,6 +20,7 @@ Advanced Features
 6. Promises
 7. Async Await
 
+_____________________________________________________
 
 Order of Operations (Operator Precedence)
 * / are done first
@@ -27,4 +28,20 @@ Order of Operations (Operator Precedence)
 (left to right) ->
 We can use (..) to control which part gets done first.
 
+How do we avoid this decimal calculation problem ->
+Calculate in cents instead of dollars
+Calculations with floats are sometimes inaccurate. -> When working with money
+1. Do the calculation in cents
+2. Convert back to dollars
 
+How to round a Numbers
+
+In this lesson: 
+1. Numbers and Math
+2. Order of Operations, and Brackets (..)
+3. Calculated the numbers in final project
+4. Calculations using floats can be inaccurate
+5. How to search for code on our own. 
+ _____________________________________________________
+
+Escape Character \
