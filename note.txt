@@ -45,3 +45,19 @@ In this lesson:
  _____________________________________________________
 
 Escape Character \
+
+______________________________________________________
+
+Variable name restrictions: 
+
+1. Can't use special words Example: let 
+2. Can't start with a Numbers
+3. Can't use special characters except: $ , _ 
+
+______________________________________________________
+
+Naming Conventions
+camelCase -> cartQuantity
+PascalCase -> CartQuantity 
+kebab-case -> cart-quantity
+snake_case -> cart_quantity
