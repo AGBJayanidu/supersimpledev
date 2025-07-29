@@ -61,3 +61,24 @@ camelCase -> cartQuantity
 PascalCase -> CartQuantity 
 kebab-case -> cart-quantity
 snake_case -> cart_quantity
+
+______________________________________________________
+
+Comparison Operators
+> - Greater than
+< - Less than
+>= - greater than or equal to
+<= - less than or equal to
+=== - equal to 
+!== not equal to 
+
+______________________________________________________
+
+Falsy Values
+
+false
+0
+''
+NaN -> Not a Number 
+undefined 
+null
