@@ -37,27 +37,43 @@
 
       // // OR Operator
       // console.log(true || true);
-      
+
       // // Not Operator
       // console.log(!true);
 
-      if(4){
-        console.log('truthy');
-      }
+      // if(4){
+      //   console.log('truthy');
+      // }
 
-      const cartQuantity = 5;
+      // const cartQuantity = 5;
 
-      if(cartQuantity){
-        console.log('cart has product');
-      }
+      // if(cartQuantity){
+      //   console.log('cart has product');
+      // }
 
-      console.log(!0); 
+      // console.log(!0);
 
-      console.log('text' / 5);
-      let variable1;
-      console.log(variable1);
+      // console.log('text' / 5);
+      // let variable1;
+      // console.log(variable1);
 
+      const result = true ? 'truthy' : 'falsy';
+      console.log(result);
+
+      // Guard operator
+      false && console.log('hello');
+
+      const message = false && 'hello';
+      console.log(message);
+
+      // Default Operator
+      // true || false 
+
+      const currency = 'EUR' || 'USD';
+      console.log(currency);
       
+      const currency1 = undefined || 'USD';
+      console.log(currency1);
 
     </script>
   </body>
